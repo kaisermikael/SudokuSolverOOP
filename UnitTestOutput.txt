@@ -1,0 +1,24 @@
+4
+1 2 3 4 
+2 - 3 1 
+1 3 - 4 
+3 1 4 - 
+- 2 1 3 
+
+
+Solution:
+
+2 4 3 1 
+1 3 2 4 
+3 1 4 2 
+4 2 1 3 
+
+Total Time: 00:00.000
+
+Strategy                 Uses Time
+-------------------------------------
+NakedSingleStrategy      1    00:00.000
+UniqueCandidateStrategy  0    00:00.000
+RowPairStrategy          0    00:00.000
+ColumnPairStrategy       0    00:00.000
+GuessStrategy            0    00:00.000
